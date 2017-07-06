@@ -17,7 +17,7 @@ This is a nested todo app, which can be used by anyone; made with rails.
 * ~~Make it modular~~
 * ~~DRY~~
 * ~~Take CSS from somewhere~~
-* Adjust CSS in controllers and views
+* ~~Adjust CSS in controllers and views~~
 * ~~Give success and error messages~~
 
 

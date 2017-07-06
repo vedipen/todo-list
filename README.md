@@ -1,4 +1,4 @@
-# A global Todo App 
+# A global [Todo App](http://todo.vedipen.com)
 
 This is a nested todo app, which can be used by anyone; made with rails.
 
